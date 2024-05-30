@@ -3,7 +3,6 @@ package src.main.java;
 public class Counter {
 
 	private int count;
-	//waw
 	public Counter() {
 		this.reset();
 	}
